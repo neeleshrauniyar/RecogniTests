@@ -18,3 +18,14 @@ class TestHomePage:
         self.driver.maximize_window()
         self.logger.info("Opened Website")
 
+        self.homepage= HomePage(self.driver)
+
+        #Confirm Homepage
+        result= self.homepage.confirmHomePage()
+
+        #Assert
+        if result==True:
+            assert True
+        else:
+            assert False
+

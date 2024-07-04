@@ -8,3 +8,8 @@ class HomePage:
 
     def __init__(self, driver):
         self.driver = driver
+
+    text_title_xpath= "//img[@alt='Google']"
+
+    def confirmHomePage(self):
+        return self.driver.find_element(By.XPATH, self.text_title_xpath).is_displayed()
