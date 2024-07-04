@@ -1,4 +1,6 @@
 import os
+import time
+
 import pytest
 
 from pageObjects.homePage import HomePage
@@ -17,6 +19,7 @@ class TestHomePage:
         self.driver.get(self.baseURL)
         self.driver.maximize_window()
         self.logger.info("Opened Website")
+        time.sleep(5)
 
         self.homepage= HomePage(self.driver)
 
@@ -31,7 +34,8 @@ class TestHomePage:
         else:
             self.logger.info("Test Failed")
             self.driver.save_screenshot(os.path.abspath(os.curdir) + "//screenshots//homepage_fail.png")
+            self.driver.close()
             assert False
 
-            self.driver.close()
+
 
