@@ -1,0 +1,18 @@
+name: Test Github Actions
+
+on:
+  push:
+    #branches: [master]
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps: 
+      - name: Checking out repo
+        uses: actions/checkout@v4
+      - name: Setting up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install -r requirements.txt
+      - run: python test1.py
