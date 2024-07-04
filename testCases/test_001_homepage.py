@@ -26,6 +26,12 @@ class TestHomePage:
         #Assert
         if result==True:
             assert True
+            self.logger.info("Test Passed")
+            self.driver.close()
         else:
+            self.logger.info("Test Failed")
+            self.driver.save_screenshot(os.path.abspath(os.curdir) + "//screenshots//homepage_fail.png")
             assert False
+
+            self.driver.close()
 
