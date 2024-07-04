@@ -1,6 +1,4 @@
 import os
-import time
-
 import pytest
 
 from pageObjects.homePage import HomePage
@@ -19,23 +17,21 @@ class TestHomePage:
         self.driver.get(self.baseURL)
         self.driver.maximize_window()
         self.logger.info("Opened Website")
-        time.sleep(5)
+        self.homepage = HomePage(self.driver)
 
-        self.homepage= HomePage(self.driver)
+        # Asserting the website
+        conf_title = self.homepage.confirmHomePage()
+        self.logger.info("Asserting the Website")
 
-        #Confirm Homepage
-        result= self.homepage.confirmHomePage()
-
-        #Assert
-        if result==True:
+        # Asserting the website
+        if conf_title == "Inference One":
             assert True
-            self.logger.info("Test Passed")
+            self.logger.info("Website Assertion Passed")
             self.driver.close()
         else:
-            self.logger.info("Test Failed")
+            self.logger.error("Website Assertion Failed")
             self.driver.save_screenshot(os.path.abspath(os.curdir) + "//screenshots//homepage_fail.png")
+            self.logger.info("Homepage Failed Screenshot Saved")
             self.driver.close()
             assert False
-
-
 
