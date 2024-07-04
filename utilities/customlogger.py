@@ -1,4 +1,6 @@
-import os, logging
+import logging
+import os
+
 
 class LogGen:
     @staticmethod

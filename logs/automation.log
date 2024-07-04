@@ -1,1 +1,88 @@
-07/04/24 12:42:52 PM: INFO: Open Website
+07/04/24 12:03:46 PM: INFO: Opening Website
+07/04/24 12:03:46 PM: INFO: Opening Website
+07/04/24 12:03:46 PM: INFO: Opening Website
+07/04/24 12:03:46 PM: INFO: Opening Website
+07/04/24 12:03:46 PM: INFO: Opening Website
+07/04/24 12:03:46 PM: INFO: Opening Website
+07/04/24 12:03:49 PM: INFO: Opened Website
+07/04/24 12:03:49 PM: INFO: Opened Website
+07/04/24 12:03:49 PM: INFO: Opened Website
+07/04/24 12:03:49 PM: INFO: Opened Website
+07/04/24 12:03:49 PM: INFO: Opened Website
+07/04/24 12:03:49 PM: INFO: Opened Website
+07/04/24 12:03:49 PM: INFO: Asserting the Website
+07/04/24 12:03:49 PM: INFO: Asserting the Website
+07/04/24 12:03:49 PM: INFO: Asserting the Website
+07/04/24 12:03:49 PM: INFO: Asserting the Website
+07/04/24 12:03:49 PM: INFO: Asserting the Website
+07/04/24 12:03:49 PM: INFO: Asserting the Website
+07/04/24 12:03:49 PM: INFO: Website Assertion Passed
+07/04/24 12:03:49 PM: INFO: Website Assertion Passed
+07/04/24 12:03:49 PM: INFO: Website Assertion Passed
+07/04/24 12:03:49 PM: INFO: Website Assertion Passed
+07/04/24 12:03:49 PM: INFO: Website Assertion Passed
+07/04/24 12:03:49 PM: INFO: Website Assertion Passed
+07/04/24 12:03:51 PM: INFO: Testing Select Model
+07/04/24 12:03:51 PM: INFO: Testing Select Model
+07/04/24 12:03:51 PM: INFO: Testing Select Model
+07/04/24 12:03:51 PM: INFO: Testing Select Model
+07/04/24 12:03:51 PM: INFO: Testing Select Model
+07/04/24 12:03:51 PM: INFO: Testing Select Model
+07/04/24 12:03:51 PM: INFO: Click on Select Model
+07/04/24 12:03:51 PM: INFO: Click on Select Model
+07/04/24 12:03:51 PM: INFO: Click on Select Model
+07/04/24 12:03:51 PM: INFO: Click on Select Model
+07/04/24 12:03:51 PM: INFO: Click on Select Model
+07/04/24 12:03:51 PM: INFO: Click on Select Model
+07/04/24 12:03:51 PM: INFO: Confirming the Select Model functionality
+07/04/24 12:03:51 PM: INFO: Confirming the Select Model functionality
+07/04/24 12:03:51 PM: INFO: Confirming the Select Model functionality
+07/04/24 12:03:51 PM: INFO: Confirming the Select Model functionality
+07/04/24 12:03:51 PM: INFO: Confirming the Select Model functionality
+07/04/24 12:03:51 PM: INFO: Confirming the Select Model functionality
+07/04/24 12:03:51 PM: INFO: Select Model functionality passed
+07/04/24 12:03:51 PM: INFO: Select Model functionality passed
+07/04/24 12:03:51 PM: INFO: Select Model functionality passed
+07/04/24 12:03:51 PM: INFO: Select Model functionality passed
+07/04/24 12:03:51 PM: INFO: Select Model functionality passed
+07/04/24 12:03:51 PM: INFO: Select Model functionality passed
+07/04/24 12:03:53 PM: INFO: LLM Simulation Begins
+07/04/24 12:03:53 PM: INFO: LLM Simulation Begins
+07/04/24 12:03:53 PM: INFO: LLM Simulation Begins
+07/04/24 12:03:53 PM: INFO: LLM Simulation Begins
+07/04/24 12:03:53 PM: INFO: LLM Simulation Begins
+07/04/24 12:03:53 PM: INFO: LLM Simulation Begins
+07/04/24 12:03:53 PM: INFO: Selecting the models, prompts, batchsize, and tensorflow
+07/04/24 12:03:53 PM: INFO: Selecting the models, prompts, batchsize, and tensorflow
+07/04/24 12:03:53 PM: INFO: Selecting the models, prompts, batchsize, and tensorflow
+07/04/24 12:03:53 PM: INFO: Selecting the models, prompts, batchsize, and tensorflow
+07/04/24 12:03:53 PM: INFO: Selecting the models, prompts, batchsize, and tensorflow
+07/04/24 12:03:53 PM: INFO: Selecting the models, prompts, batchsize, and tensorflow
+07/04/24 12:03:53 PM: INFO: Running the LLM simulation
+07/04/24 12:03:53 PM: INFO: Running the LLM simulation
+07/04/24 12:03:53 PM: INFO: Running the LLM simulation
+07/04/24 12:03:53 PM: INFO: Running the LLM simulation
+07/04/24 12:03:53 PM: INFO: Running the LLM simulation
+07/04/24 12:03:53 PM: INFO: Running the LLM simulation
+07/04/24 12:04:27 PM: INFO: Opening Website
+07/04/24 12:04:28 PM: INFO: Opened Website
+07/04/24 12:04:28 PM: INFO: Asserting the Website
+07/04/24 12:04:28 PM: INFO: Website Assertion Passed
+07/04/24 12:08:35 PM: INFO: Opening Website
+07/04/24 12:08:36 PM: INFO: Opened Website
+07/04/24 12:08:36 PM: INFO: Asserting the Website
+07/04/24 12:08:36 PM: INFO: Website Assertion Passed
+07/04/24 12:10:51 PM: INFO: Opening Website
+07/04/24 12:10:52 PM: INFO: Opened Website
+07/04/24 12:10:52 PM: INFO: Asserting the Website
+07/04/24 12:10:52 PM: INFO: Website Assertion Passed
+07/04/24 12:13:56 PM: INFO: Opening Website
+07/04/24 12:13:58 PM: INFO: Opened Website
+07/04/24 12:13:58 PM: INFO: Asserting the Website
+07/04/24 12:13:58 PM: INFO: Website Assertion Passed
+07/04/24 12:14:19 PM: INFO: Opening Website
+07/04/24 12:14:20 PM: INFO: Opened Website
+07/04/24 12:14:20 PM: INFO: Asserting the Website
+07/04/24 12:14:20 PM: INFO: Website Assertion Passed
+07/04/24 02:14:39 PM: INFO: Opening Website
+07/04/24 02:14:40 PM: INFO: Opened Website
